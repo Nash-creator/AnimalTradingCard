@@ -1,0 +1,67 @@
+.card-shape{
+    width: 325px;
+    height: 578px;
+    border: 5pt solid black;
+    box-shadow: 10px 5px 5px grey;
+    background-color: rgb(150, 214, 240);
+    
+    
+}
+
+img{
+    vertical-align: top;
+    display: flex;
+    text-align: center;
+    flex-wrap: wrap;
+    width:300px;
+    
+    
+}
+
+h1{
+    margin: 2%;
+    margin-top: 10%;
+    font-stretch: expanded;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+
+}
+
+ul{
+    margin: -0.1%;
+    border: solid rgb(238, 236, 236);
+    display: flex;
+    flex-wrap: wrap;
+    
+
+}
+
+.title-of-list-item{
+    font-weight: bolder;
+}
+
+.breif-intro-to-animal{
+    border: solid rgb(255, 255, 255);
+    align-self: center;
+    padding-left: 6%;
+    padding-right: 4%;
+    font-style: italic;
+    padding-bottom: -5%;
+
+}
+.top-portion-of-card{
+    border: solid rgb(255, 255, 255);
+    padding-left: 3%;
+    padding-bottom: 1%;
+}
+
+.bottom-portion-of-card{
+    border: solid rgb(255, 255, 255);
+    padding-bottom: 1.6% ;  
+    padding-left: 2%;
+    padding-right: 2%;  
+    padding-bottom: 6%;
+}
+body{
+    background-color: rgb(199, 237, 247);
+}
