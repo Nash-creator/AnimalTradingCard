@@ -1,1 +1,1 @@
-"# AnimalTradingCard" 
+# AnimalTradingCard
